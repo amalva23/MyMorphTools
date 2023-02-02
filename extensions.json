@@ -5,7 +5,7 @@
             "default_enabled": "True",
             "type": "extension",
             "rocket_mode_compatible": "False",
-            "name": "pyMorphTools",
+            "name": "MyMorphExtension",
             "description": "A collection of tools for Revit by Morph Estudio.",
             "author": "Amaia",
             "author_profile": "https://github.com/amalva23",
