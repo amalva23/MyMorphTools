@@ -2,7 +2,7 @@
     "extensions": [
         {
             "builtin": "False",
-            "enable": "True",
+            "default_enabled": "True",
             "type": "extension",
             "rocket_mode_compatible": "False",
             "name": "pyMorphTools",
