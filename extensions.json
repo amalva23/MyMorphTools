@@ -6,7 +6,7 @@
             "type": "extension",
             "rocket_mode_compatible": "False",
             "name": "MyMorphExtension",
-            "description": "A collection of tools for Revit by Morph Estudio.",
+            "description": "Coleccion de herramientas para Revit de Morph Estudio.",
             "author": "Amaia",
             "author_profile": "https://github.com/amalva23",
             "url": "https://github.com/amalva23/MyMorphTools.git",
